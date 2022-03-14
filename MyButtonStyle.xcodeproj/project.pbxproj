@@ -11,6 +11,7 @@
 		0E3BDCF827DF61CF001FF2B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3BDCF727DF61CF001FF2B2 /* ContentView.swift */; };
 		0E3BDCFA27DF61D3001FF2B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E3BDCF927DF61D3001FF2B2 /* Assets.xcassets */; };
 		0E3BDCFD27DF61D3001FF2B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E3BDCFC27DF61D3001FF2B2 /* Preview Assets.xcassets */; };
+		0E3BDD0427DF6230001FF2B2 /* MyButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E3BDD0327DF6230001FF2B2 /* MyButtonStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0E3BDCF727DF61CF001FF2B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0E3BDCF927DF61D3001FF2B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E3BDCFC27DF61D3001FF2B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0E3BDD0327DF6230001FF2B2 /* MyButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButtonStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0E3BDCF527DF61CF001FF2B2 /* MyButtonStyleApp.swift */,
 				0E3BDCF727DF61CF001FF2B2 /* ContentView.swift */,
+				0E3BDD0327DF6230001FF2B2 /* MyButtonStyle.swift */,
 				0E3BDCF927DF61D3001FF2B2 /* Assets.xcassets */,
 				0E3BDCFB27DF61D3001FF2B2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E3BDD0427DF6230001FF2B2 /* MyButtonStyle.swift in Sources */,
 				0E3BDCF827DF61CF001FF2B2 /* ContentView.swift in Sources */,
 				0E3BDCF627DF61CF001FF2B2 /* MyButtonStyleApp.swift in Sources */,
 			);
